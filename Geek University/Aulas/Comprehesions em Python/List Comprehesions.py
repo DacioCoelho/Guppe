@@ -87,3 +87,7 @@ Nós podemos adicionar estruturas condicionais lógicas às nossas List Comprehe
 # 1
 
 numeros = [1, 2, 3, 4, 5, 6]
+
+res = [nume * 10 for nume in numeros]
+
+print(res)
